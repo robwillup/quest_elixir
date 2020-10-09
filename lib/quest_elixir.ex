@@ -12,7 +12,7 @@ defmodule QuestElixir do
       :world
 
   """
-  def hello do
-    :world
+  def subscribe do
+    
   end
 end
